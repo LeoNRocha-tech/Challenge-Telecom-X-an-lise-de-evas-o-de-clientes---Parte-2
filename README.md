@@ -1,4 +1,4 @@
-# Challenge-Telecom-X-an-lise-de-evas-o-de-clientes---Parte-2
+# Challenge Telecom X: Análise de Evasão de Clientes-Parte-2
 
 # 📊 Pipeline de Modelagem Preditiva em Telecom  
 
